@@ -50,7 +50,7 @@
 ## ❖ GitHub Stats
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KritarthPatel&cache_seconds=7200&theme=dark&hide_border=true&show_icons=true" />&thinsp;
-  <img src="https://streak-stats.vercel.app?user=KritarthPatel&theme=dark&hide_border=true&cache_seconds=86400" alt="Kunal241207's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.vercel.app?user=KritarthPatel&theme=dark&hide_border=true&cache_seconds=86400" alt="KritarthPatel's GitHub Streak" width="49%" />
   <img width="46%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KritarthPatel&langs_count=6&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
