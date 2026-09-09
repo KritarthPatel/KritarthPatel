@@ -56,9 +56,8 @@
 
 ## ✦&nbsp; GitHub Stats
 <p>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=KritarthPatel&theme=nord&hide_border=false" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=KritarthPatel&theme=nord&hide_border=false" />
+  <img width="35%" src="https://github-readme-stats-fast.vercel.app/api?username=KritarthPatel&theme=nord&hide_border=false" />
+  <img width="38.5%" src="https://streak-stats.demolab.com/?user=KritarthPatel&theme=nord&hide_border=false" />
 </p>
 
 <p align="center">
