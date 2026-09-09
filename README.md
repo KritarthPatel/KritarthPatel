@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=2500&pause=600&color=64B5F6x&center=true&vCenter=true&width=1000&height=100&lines=Hello+!+I'm+Kritarth+Patel;Welcome+to+my+profile!!;Algorithmic+Mindset+%7C+AI+Explorer" />
 </p>
 
-## ❖ About Me
+## ✦&nbsp; About Me
 
 <p align="center">
   I'm a CS & AI student passionate about Competitive Programming, Data Structures & Algorithms, and Problem-solving. I enjoy tackling challenging problems, exploring efficient algorithms, and building projects while continuously improving my understanding of Computer science.
@@ -27,14 +27,14 @@
 
 </p>
 
-### ✥ What am I doing
+## ✦&nbsp; What am I doing
 
 - Solve more DSA & Competitive Programming problems
 - Improve problem-solving speed and algorithmic thinking
 - Strengthen knowledge of Algorithms, Data Structures & Computer Science fundamentals
 - Explore AI, systems, and scalable software engineering
 
-## ❖ Socials
+## ✦&nbsp; Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/kritarth-patel-7bb337373/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://leetcode.com/u/Kritarth_Patel/" target="_blank">
@@ -48,17 +48,24 @@
 </a>
 </p>
 
-## ❖ Tech Stack
+## ✦&nbsp; Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express,nodejs,postgres,python,cpp,figma" />
 </p>
 
 
-## ❖ GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=KritarthPatel&theme=nord&hide_border=false&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=KritarthPatel&theme=nord&hide_border=false)
+## ✦&nbsp; GitHub Stats
+<p>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=KritarthPatel&theme=nord&hide_border=false" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com/?user=KritarthPatel&theme=nord&hide_border=false" />
+</p>
 
+<p align="center">
+  <img width="600" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 <div align="center">
   <img src="https://static1.squarespace.com/static/5fe4caeadae61a2f19719512/t/6696219ad6dcda40f9fa8ab6/1721115042117/16.gif?format=1500w" alt="Bottom Line" width="100%" />
 </div>
+
