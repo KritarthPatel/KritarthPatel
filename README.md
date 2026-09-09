@@ -55,7 +55,7 @@
 
 
 ## ✦&nbsp; GitHub Stats
-<p>
+<p align="center">
   <img width="35%" src="https://github-readme-stats-fast.vercel.app/api?username=KritarthPatel&theme=nord&hide_border=false" />
   <img width="38.5%" src="https://streak-stats.demolab.com/?user=KritarthPatel&theme=nord&hide_border=false" />
 </p>
