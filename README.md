@@ -2,6 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&duration=2500&pause=600&color=64B5F6x&center=true&vCenter=true&width=1000&height=100&lines=Hello+!+I'm+Kritarth+Patel;Welcome+to+my+profile!!;Algorithmic+Mindset+%7C+AI+Explorer" />
 </p>
 
+<p align="center">
+  <img src="assets/portrait.svg" width="220" alt="Kritarth Patel">
+</p>
+
 ## ✦&nbsp; About Me
 
 <p align="center">
