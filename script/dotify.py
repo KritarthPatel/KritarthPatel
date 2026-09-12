@@ -155,7 +155,7 @@ def svg_header(w, h, rows, opts):
     defs = (
         f'<defs>'
         f'<clipPath id="rounded-box">'
-        f'<rect width="{total_w}" height="{total_h}" rx="15" ry="15"/>'
+        f'<rect width="{total_w}" height="{total_h}" rx="65" ry="65"/>'
         f'</clipPath>'
         f'</defs>'
     )
